@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-03-25T16:30:00Z",
+  "updatedAt": "2026-03-27T09:30:00Z",
   "notices": [
     {
       "priority": "P2",
-      "title": "NOTIFICATION TESTING!",
-      "summary": "READMENOW.",
-      "detail": "This is a TfGM/GMP operation where officers travel around a district on a Bee Network bus.\n\nIf you'd like to take part, email Ethan by 1st April."
+      "title": "OPERATION TOP DECK",
+      "summary": "Joint operation using Bee Network buses to evidence driving offences.",
+      "detail": "This is a TfGM/GMP operation where officers travel around a district on a Bee Network bus, collecting evidence of motorists committing driving offences. Working with GMP, vehicles are stopped and enforcement action is taken.\n\nIf you'd like to take part, please email Ethan by 1 April."
+    },
+    {
+      "priority": "P2",
+      "title": "NEW ECP – ALTRINCHAM",
+      "summary": "Emergency call point now routes directly to OCC.",
+      "detail": "A new emergency call point has been installed at Altrincham Interchange. Any activations will route directly through to the OCC.\n\nThis follows a previous incident where a customer was trapped in the lobby for an extended period. The call point is now live.\n\nPublic access hours:\nMon–Sat: 07:00–18:20\nSun: 09:10–17:10"
+    },
+    {
+      "priority": "P3",
+      "title": "CHAIN OF CARE",
+      "summary": "Reminder to follow the chain of care and look out for each other.",
+      "detail": "Following a challenging couple of weeks, please familiarise yourself with the Chain of Care procedure and continue to look out for colleagues and support one another.\n\nIf you need any support, speak to a manager."
     }
   ]
 }
